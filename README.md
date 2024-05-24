@@ -1,4 +1,4 @@
-# Data-Driven-CRM-Strategy-Enhancing-Customer-Engagement-and-Growth
+# Data Driven CRM Strategy: Enhancing Customer Engagement and Growth
 
 ## Project Overview
 
